@@ -1,16 +1,25 @@
-### Hi there 👋
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<br><br>
+<p align="left">
+Sou um aprendiz rápido e estou constantemente buscando novos desafios para expandir meu conjunto de habilidades.
+Tenho uma mentalidade orientada a soluções, capaz de resolver problemas de maneira eficiente e criativa.
+Também sou um bom comunicador e tenho facilidade em trabalhar em equipe.
+</p>
+
+<br><br><br>
+
+[![Linkedin](https://img.shields.io/badge/-wurias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wurias)](https://www.linkedin.com/in/wurias)
+[![Gmail Badge](https://img.shields.io/badge/-uriasdev@gmail.com-FFF6DC?style=flat-square&logo=Gmail&logoColor=F00&link=mailto:uriasdev@gmail.com)](mailto:uriasdev@gmail.com)
+
+<hr>
+
+<p align="right">
+  https://wurias.tech
+</p>
+
 
 <!--
-**wurias/wurias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=wurias&color=FF6000)
 -->

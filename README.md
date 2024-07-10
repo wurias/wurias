@@ -3,9 +3,7 @@
 
 <br><br>
 <p align="left">
-Sou um aprendiz rápido e estou constantemente buscando novos desafios para expandir meu conjunto de habilidades.
-Tenho uma mentalidade orientada a soluções, capaz de resolver problemas de maneira eficiente e criativa.
-Também sou um bom comunicador e tenho facilidade em trabalhar em equipe.
+codeberg.org/wurias
 </p>
 
 <br><br><br>

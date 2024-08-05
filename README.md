@@ -13,10 +13,6 @@ codeberg.org/wurias
 
 <hr>
 
-<p align="right">
-  https://wurias.tech
-</p>
-
 
 <!--
 ![](https://komarev.com/ghpvc/?username=wurias&color=FF6000)

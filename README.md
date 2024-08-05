@@ -3,9 +3,9 @@
 
 <br><br>
 <p align="left">
-codeberg.org/wurias
+https://codeberg.org/wurias
 </p>
-
+<img src="https://raw.githubusercontent.com/wurias/wurias/main/cursor-github.png" min-width="50px" max-width="50px" width="50px">
 <br><br><br>
 
 [![Linkedin](https://img.shields.io/badge/-wurias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wurias)](https://www.linkedin.com/in/wurias)

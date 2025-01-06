@@ -9,7 +9,7 @@ https://codeberg.org/wurias
 <br><br><br>
 
 [![Linkedin](https://img.shields.io/badge/-wurias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wurias)](https://www.linkedin.com/in/wurias)
-[![Gmail Badge](https://img.shields.io/badge/-uriasdev@gmail.com-FFF6DC?style=flat-square&logo=Gmail&logoColor=F00&link=mailto:uriasdev@gmail.com)](mailto:uriasdev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-w.sairu@disroot.org-FFF6DC?style=flat-square&logo=Gmail&logoColor=F00&link=mailto:w.sairu@disroot.org)](mailto:w.sairu@disroot.org)
 
 <hr>
 
